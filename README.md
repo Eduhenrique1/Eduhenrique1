@@ -1,4 +1,5 @@
-### Olá, Meu nome é Eduardo Henrique e posso ser seu desenvolvedor.
+### Jogador de league of legends e viciado em chá de camomila.
+### Web Developer | UX Designer | Graphic designer  
 
 <!--
 **Eduhenrique1/Eduhenrique1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
