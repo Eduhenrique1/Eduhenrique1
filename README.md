@@ -1,6 +1,6 @@
 ### 👾 Jogador de league of legends e viciado em chá de camomila.👾
-### 👨🏽‍💻 Web Developer | UX Designer | Graphic designer  
-
+<!--  👨🏽‍💻 Web Developer | UX Designer | Graphic designer   -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9738F7&background=FF000000&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Web+Developer+%7C+UX+Designer+%7C+Graphic+designer)](https://git.io/typing-svg)
 <!--
 **Eduhenrique1/Eduhenrique1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
